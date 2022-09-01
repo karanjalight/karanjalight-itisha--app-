@@ -1,0 +1,39 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+
+.mgntp-2 {
+    margin-top: 5%;
+}
+
+.mgntp-3 {
+    margin-top: 8%;
+}
+
+.mgntpbtm-3 {
+    margin: 8% auto;
+}
+
+.hero_single .search_trends ul li a {
+    padding-left: 2px;
+}
+
+.ribbon {
+    font-size: 1.0rem;
+}
+
+.list_home ul li a small {
+    font-size: 0.675rem!important;
+}
+
+.list_home ul li a h3 {
+    font-size: 1.225rem!important;
+}
+
+.cstm-bg-img2 {
+    background-image: url(/img/coke_bg.jpg)!important;
+}
+
+.margin_detail {
+    padding-top: unset;
+}
